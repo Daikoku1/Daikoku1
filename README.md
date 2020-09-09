@@ -11,15 +11,14 @@
 
 ## **Stack**
 
-- Python
+- <div>
+    <img 
+      src="http://img.shields.io/badge/--badge?style=social&logo=Python"
+      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </div> Python
 - MySQL
 - DeepLearning
-<div>
-  <a>
-    <img 
-        src="http://img.shields.io/badge/--badge?style=social&logo=Python"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a>
+
   <a>
     <img 
         src="http://img.shields.io/badge/-MySQL-badge?style=flat-square&logo=MySQL"
