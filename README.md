@@ -11,19 +11,21 @@
 
 ## **Stack**
 
-- <div>
-    <img 
-      src="http://img.shields.io/badge/-Python-badge?style=social&logo=Python"
-      style="height : auto"/>
-  </div>
+- Python
 - MySQL
 - DeepLearning
 
-  <a>
-    <img 
-        src="http://img.shields.io/badge/-MySQL-badge?style=flat-square&logo=MySQL"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a>
+<div>
+    <a>
+        <img 
+        src="http://img.shields.io/badge/--badge?style=social&logo=Python"
+        style="height : 20; margin-left : 10px; margin-right : 10px;"/>
+    </a>
+    <a>
+        <img 
+             src="http://img.shields.io/badge/--badge?style=social&logo=MySQL"
+             style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
 </div>
 ## **Languages and Tools**   
 [![python](http://img.shields.io/badge/Python-badge?style=flat-square&logo=Python&logoColor=white)]
