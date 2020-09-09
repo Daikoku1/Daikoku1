@@ -17,7 +17,7 @@
 <div>
   <a>
     <img 
-        src="http://img.shields.io/badge/-Python-badge?style=social&logo=Python"
+        src="http://img.shields.io/badge/--badge?style=social&logo=Python"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
   <a>
