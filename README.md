@@ -19,14 +19,11 @@
     <a>
         <img 
         src="http://img.shields.io/badge/--badge?style=social&logo=Python"
-        style="height : 200px; margin-left : 10px; margin-right : 10px;"/>
+        style="height : 200px; margin:auto"/>
     </a>
     <a>
         <img 
              src="http://img.shields.io/badge/--badge?style=social&logo=MySQL"
-             style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+             style="height : auto; margin:auto"/>
     </a>
 </div>
-## **Languages and Tools**   
-[![python](http://img.shields.io/badge/Python-badge?style=flat-square&logo=Python&logoColor=white)]
-[![MySQL](http://img.shields.io/badge/MySQL-badge?style=flat-square&logo=MySQL&logoColor=white)]
