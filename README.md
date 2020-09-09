@@ -7,3 +7,5 @@
 
 ## **Languages and Tools**   
 [![python](http://img.shields.io/badge/Python-badge?style=flat-square&logo=Python&logoColor=white)]
+[![MySQL](http://img.shields.io/badge/MySQL-badge?style=flat-square&logo=MySQL&logoColor=white)]
+[![Git](http://img.shields.io/badge/GitHub-badge?style=flat-square&logo=181717&logoColor=white)]
