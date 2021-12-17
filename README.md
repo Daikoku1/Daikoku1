@@ -19,10 +19,18 @@
 
 ### ⚡ Work Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Daikoku1&show_icons=true&theme=midnight-purple" alt="Anurag's GitHub stats" height="200" hspace="20"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daikoku1&layout=compact&theme=midnight-purple" alt="Most Use Language" height="200"/>
-|:-:|:-:|
+|---|---|
+
+<p align = 'center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=Daikoku1&show_icons=true&theme=midnight-purple" alt="Anurag's GitHub stats" width = '300' height="200" hspace="20"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daikoku1&layout=compact&theme=midnight-purple" alt="Most Use Language" width = '300' height="200"/>
+</p>
+
+:-------------------------:|:-------------------------:
+![Daikoku1's github stats](https://github-readme-stats.vercel.app/api?username=Daikoku1&show_icons=true)  | ![[Daikoku1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Daikoku1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 
 ![Daikoku1's github stats](https://github-readme-stats.vercel.app/api?username=Daikoku1&show_icons=true)
-[![Daikoku1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Daikoku1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Daikoku1)
+![[Daikoku1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Daikoku1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)]
 
 
 <p align="right"> 
