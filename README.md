@@ -16,13 +16,14 @@
 <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 
 ### ⚡ Work Stats
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=Daikoku1&show_icons=true&theme=midnight-purple">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jys9047">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=Daikoku1&show_icons=true&theme=midnight-purple">
 
-</br>
-</br> 
-  
-<p align="right"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Daikoku1/count.svg" />
+
+<br/>  
+<br/>  
+    
+
+<p align="right"> Visitor count<br>
+<img src="https://profile-counter.glitch.me/Daikoku1/count.svg" />
 </p>
