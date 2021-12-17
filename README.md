@@ -23,7 +23,4 @@
 <br/>  
 <br/>  
     
-#### 
-<p align="right"> Visitor count<br>
-<img src="https://profile-counter.glitch.me/Daikoku1/count.svg" />
-</p>
+<image align="right" src="https://profile-counter.glitch.me/Daikoku1/count.svg">
