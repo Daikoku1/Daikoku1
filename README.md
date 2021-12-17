@@ -27,8 +27,8 @@
 </p>
 
 <p align = 'center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=Daikoku1&show_icons=true&theme=midnight-purple" alt="Anurag's GitHub stats" height="150" hspace="20"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daikoku1&layout=compact&theme=midnight-purple" alt="Most Use Language" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Daikoku1&show_icons=true&theme=midnight-purple" alt="Anurag's GitHub stats" height="130" hspace="20"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daikoku1&layout=compact&theme=midnight-purple" alt="Most Use Language" height="130"/>
 </p>
 
 -------------------------:|:-------------------------
