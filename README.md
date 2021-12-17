@@ -1,5 +1,5 @@
 <h2> "안녕하세요"👋 </h2>
-<img align='right' src="https://user-images.githubusercontent.com/50973778/144942576-b2f10b31-e628-43e4-b7da-3cc2144a5b73.gif" width="150">
+<img align='right' src="https://user-images.githubusercontent.com/50973778/144942576-b2f10b31-e628-43e4-b7da-3cc2144a5b73.gif" width="230">
 <p><em> 데이터 분석가를 꿈꾸는 정윤성입니다.</br> 어제의 나보다 성장하기 위한 </br> 노력들을 기록하고 있습니다.</em></p>
 
 ### For Connect
