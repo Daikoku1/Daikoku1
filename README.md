@@ -18,6 +18,7 @@
 ### ⚡ Work Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daikoku1&show_icons=true&theme=midnight-purple)
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jys9047)](https://solved.ac/jys9047)
 
 <p align="right"> 
   Visitor count<br>
