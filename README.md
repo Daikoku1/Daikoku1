@@ -15,17 +15,11 @@
 <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="Twitter" style="vertical-align:top; margin:4px">   
 <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 
+<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jys9047" alt="BOJ_profile"/>
+
 ### ⚡ Work Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daikoku1&show_icons=true&theme=midnight-purple) |[![BOJ_profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jys9047)](https://solved.ac/jys9047)
+<img src="https://github-readme-stats.vercel.app/api?username=Daikoku1&show_icons=true&theme=midnight-purple" alt="Anurag's GitHub stats" height="200" hspace="20"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daikoku1&layout=compact&theme=midnight-purple" alt="Most Use Language" height="200"/>
 |:-:|:-:|
-
-<img src="https://github-readme-stats.vercel.app/api?username=Daikoku1&show_icons=true&theme=midnight-purple" alt="Anurag's GitHub stats" width="390" height="200" hspace="20"/>|<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jys9047" alt="BOJ_profile" width="390" height="200" />
-|:-:|:-:|
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Daikoku1&show_icons=true&theme=midnight-purple" alt="Anurag's GitHub stats" width="390" height="200" hspace="20"/>
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jys9047" alt="BOJ_profile" width="390" height="200" />
-<br/></br><br/><br/><br/>
-
 
 <p align="right"> 
   Visitor count<br>
