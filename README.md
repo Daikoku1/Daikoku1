@@ -17,7 +17,15 @@
 
 ### ⚡ Work Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daikoku1&show_icons=true&theme=midnight-purple) |[![BOJ_profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jys9047)](https://solved.ac/jys9047)
---- | --- | 
+|:-:|:-:|
+
+<img src="https://github-readme-stats.vercel.app/api?username=Daikoku1&show_icons=true&theme=midnight-purple" alt="Anurag's GitHub stats" width="390" height="200" hspace="20"/>|<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jys9047" alt="BOJ_profile" width="390" height="200" />
+|:-:|:-:|
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Daikoku1&show_icons=true&theme=midnight-purple" alt="Anurag's GitHub stats" width="390" height="200" hspace="20"/>
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jys9047" alt="BOJ_profile" width="390" height="200" />
+<br/></br><br/><br/><br/>
+
 
 <p align="right"> 
   Visitor count<br>
