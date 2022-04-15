@@ -31,7 +31,7 @@ jobs:
         pip install feedparser
     - name: Update Python Script
       run: |
-        python show_blog_daily.py
+        python utils/show_blog_daily.py
     - name: Update README.md file
       run: |
         git add .
