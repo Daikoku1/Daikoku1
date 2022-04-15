@@ -27,7 +27,6 @@ def make_readme():
 
 ## 💻 Latest Blog Posts
 {post_list}
-<img align="center" src="/>
 
 ### ⚡ Work Stats
 <p align = 'center'>
