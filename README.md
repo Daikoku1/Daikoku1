@@ -20,7 +20,6 @@
 [2022/3/30 - TIL 6장. 동시성](https://blog.naver.com/jjys9047/222687481194) <br>
 [2022/3/28 - TIL 실용주의 프로그래머 MISSION](https://blog.naver.com/jjys9047/222685611964) <br>
 
-<img align="center" src="/>
 
 ### ⚡ Work Stats
 <p align = 'center'>
