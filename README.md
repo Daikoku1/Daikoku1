@@ -1,3 +1,4 @@
+
 <h2> "안녕하세요"👋 </h2>
 <img align='right' src="https://user-images.githubusercontent.com/50973778/144942576-b2f10b31-e628-43e4-b7da-3cc2144a5b73.gif" width="230">
 <p><em> 데이터 분석가를 꿈꾸는 정윤성입니다.</br> 어제의 나보다 성장하기 위한 </br> 노력들을 기록하고 있습니다.</em></p>
@@ -11,16 +12,20 @@
 
 </br>
 
-## 💻 Languages and Tools...
-<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="Twitter" style="vertical-align:top; margin:4px">   
-<img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+## 💻 Latest Blog Posts
+[2022/4/5 - TIL 9장. 실용주의 프로젝트](https://blog.naver.com/jjys9047/222692879276) <br>
+[2022/4/4 - TIL 연습문제 33](https://blog.naver.com/jjys9047/222691843427) <br>
+[2022/4/3 - TIL 8장. 프로젝트 전에](https://blog.naver.com/jjys9047/222690833902) <br>
+[2022/4/2 - TIL 7장. 코딩하는 동안](https://blog.naver.com/jjys9047/222690146499) <br>
+[2022/3/30 - TIL 6장. 동시성](https://blog.naver.com/jjys9047/222687481194) <br>
+[2022/3/28 - TIL 실용주의 프로그래머 MISSION](https://blog.naver.com/jjys9047/222685611964) <br>
 
-<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jys9047" alt="BOJ_profile"/>
+<img align="center" src="/>
 
 ### ⚡ Work Stats
 <p align = 'center'>
   <img src="https://github-readme-stats.vercel.app/api?username=Daikoku1&show_icons=true&theme=midnight-purple" alt="Anurag's GitHub stats" height="130" hspace="20"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daikoku1&layout=compact&theme=midnight-purple" alt="Most Use Language" height="130"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jys9047" alt="BOJ_profile" height="130" hspace="20"/>
 </p>
 
 <p align="right"> 
