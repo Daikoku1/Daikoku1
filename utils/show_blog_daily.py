@@ -10,7 +10,7 @@ def make_readme():
 
         feed_date = feed['published_parsed']
         month = str(feed_date.tm_mon).rjust(2, '0')
-        day = str(feed_date.tm_day).rjust(2, '0')
+        day = str(feed_date.tm_mday).rjust(2, '0')
         post_list += f"[{feed_date.tm_year}/{month}/{day} - {feed['title']}]({feed['link']}) <br>\n"
 
     return f"""
