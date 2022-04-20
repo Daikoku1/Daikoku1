@@ -9,8 +9,8 @@ def make_readme():
         if idx > max_post: break
 
         feed_date = feed['published_parsed']
-        month = feed_date.tm_mon.rjust(2, '0')
-        day = feed_date.tm_day.rjust(2, '0')
+        month = str(feed_date.tm_mon).rjust(2, '0')
+        day = str(feed_date.tm_day).rjust(2, '0')
         post_list += f"[{feed_date.tm_year}/{month}/{day} - {feed['title']}]({feed['link']}) <br>\n"
 
     return f"""
