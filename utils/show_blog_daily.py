@@ -9,7 +9,9 @@ def make_readme():
         if idx > max_post: break
 
         feed_date = feed['published_parsed']
-        post_list += f"[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
+        month = feed_date.tm._mon.rjust(2, '0')
+        day = feed_date.tm._day.rjust(2, '0')
+        post_list += f"[{feed_date.tm_year}/{month}/{day} - {feed['title']}]({feed['link']}) <br>\n"
 
     return f"""
 <h2> "안녕하세요"👋 </h2>
