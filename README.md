@@ -13,12 +13,12 @@
 </br>
 
 ## 💻 Latest Blog Posts
+[2023/09/15 - 9월15일 인왕산](https://blog.naver.com/jjys9047/223212673529) <br>
 [2023/09/10 - 9월11일 통영러닝](https://blog.naver.com/jjys9047/223207971534) <br>
 [2023/09/06 - 9월6일 5.28km 0554](https://blog.naver.com/jjys9047/223204609137) <br>
 [2023/09/03 - 9월 3일 5km 0601](https://blog.naver.com/jjys9047/223201401007) <br>
 [2023/08/30 - 8월30일 5km 0548](https://blog.naver.com/jjys9047/223198034833) <br>
 [2023/08/27 - 8월 27일 5.9km 06'49"](https://blog.naver.com/jjys9047/223195037336) <br>
-[2023/08/24 - 8/24일 4.52km 05'45"](https://blog.naver.com/jjys9047/223192720070) <br>
 
 
 ### ⚡ Work Stats
