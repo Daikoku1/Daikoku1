@@ -13,12 +13,12 @@
 </br>
 
 ## 💻 Latest Blog Posts
+[2023/10/26 - 10월26일 5.55km 0542](https://blog.naver.com/jjys9047/223247516278) <br>
 [2023/10/22 - 10월22일 12.33km 0510](https://blog.naver.com/jjys9047/223243328490) <br>
 [2023/10/20 - 10월21일 10.56km 0501](https://blog.naver.com/jjys9047/223242498862) <br>
 [2023/10/17 - 10월17일 5.76km 0542](https://blog.naver.com/jjys9047/223239407807) <br>
 [2023/10/16 - 10월16일 3.06km 0610](https://blog.naver.com/jjys9047/223238470488) <br>
 [2023/10/15 - 10월15일 6.21km 0711](https://blog.naver.com/jjys9047/223237171098) <br>
-[2023/10/12 - 10월12일 5.85km 0553](https://blog.naver.com/jjys9047/223235147413) <br>
 
 
 ### ⚡ Work Stats
