@@ -13,12 +13,12 @@
 </br>
 
 ## 💻 Latest Blog Posts
+[2023/11/21 - 11월22일 3km 0544](https://blog.naver.com/jjys9047/223271392565) <br>
 [2023/11/14 - 11월14일 5.44km 0557](https://blog.naver.com/jjys9047/223264936460) <br>
 [2023/11/11 - 11월11일 5.36km 0611](https://blog.naver.com/jjys9047/223261962169) <br>
 [2023/11/10 - 11월10일 5.01km 0537](https://blog.naver.com/jjys9047/223261696533) <br>
 [2023/11/07 - 11월7일 6.01km 0538](https://blog.naver.com/jjys9047/223258533788) <br>
 [2023/11/05 - 11월5일 5.13km 0521](https://blog.naver.com/jjys9047/223256035208) <br>
-[2023/11/04 - 노션으로 관리하는 러닝 기록](https://blog.naver.com/jjys9047/223255697035) <br>
 
 
 ### ⚡ Work Stats
