@@ -13,12 +13,12 @@
 </br>
 
 ## 💻 Latest Blog Posts
+[2023/12/11 - 12월11일 5.01km 0640](https://blog.naver.com/jjys9047/223289775900) <br>
 [2023/12/10 - 12월10일 17.21km 0556](https://blog.naver.com/jjys9047/223288454095) <br>
 [2023/12/09 - 12월9일 6.01km 0603](https://blog.naver.com/jjys9047/223287423092) <br>
 [2023/12/06 - 12월6일 6.75km 0623](https://blog.naver.com/jjys9047/223285166731) <br>
 [2023/12/03 - 12월3일 6.0km 0555](https://blog.naver.com/jjys9047/223282204984) <br>
 [2023/12/02 - 12월2일 10km 0518](https://blog.naver.com/jjys9047/223281248475) <br>
-[2023/12/01 - 세부 스쿠버다이빙 블루몬스타](https://blog.naver.com/jjys9047/223280540139) <br>
 
 
 ### ⚡ Work Stats
