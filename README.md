@@ -13,12 +13,12 @@
 </br>
 
 ## 💻 Latest Blog Posts
+[2023/12/20 - 12월20일 6.86km 0731](https://blog.naver.com/jjys9047/223298936692?fromRss=true) <br>
 [2023/12/17 - 세부 블루몬스타 - 어드밴스 자격증 편](https://blog.naver.com/jjys9047/223295563543?fromRss=true) <br>
 [2023/12/17 - 12월17일 10.17km 0725](https://blog.naver.com/jjys9047/223295188642?fromRss=true) <br>
 [2023/12/16 - 12월16일 12.71km 0619](https://blog.naver.com/jjys9047/223294561567?fromRss=true) <br>
 [2023/12/16 - 12월15일 10.32km 0756](https://blog.naver.com/jjys9047/223294556179?fromRss=true) <br>
 [2023/12/13 - 12월13일 10.48km 0615](https://blog.naver.com/jjys9047/223291960712?fromRss=true) <br>
-[2023/12/11 - 12월11일 5.01km 0640](https://blog.naver.com/jjys9047/223289775900?fromRss=true) <br>
 
 
 ### ⚡ Work Stats
