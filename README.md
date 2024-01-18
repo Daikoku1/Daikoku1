@@ -13,12 +13,12 @@
 </br>
 
 ## 💻 Latest Blog Posts
+[2024/01/17 - 1월17일 7.89km 0625](https://blog.naver.com/jjys9047/223325802349?fromRss=true) <br>
 [2024/01/14 - 1월14일 21.2km 0505](https://blog.naver.com/jjys9047/223322068842?fromRss=true) <br>
 [2024/01/12 - 경복궁역 Bar NYIL](https://blog.naver.com/jjys9047/223320864172?fromRss=true) <br>
 [2024/01/11 - 1월11일 10.08KM 변속주 + 인터벌](https://blog.naver.com/jjys9047/223319818800?fromRss=true) <br>
 [2024/01/10 - 1월10일 5.7km 0645](https://blog.naver.com/jjys9047/223318725355?fromRss=true) <br>
 [2024/01/07 - 1월7일 21.25km 0527](https://blog.naver.com/jjys9047/223315075932?fromRss=true) <br>
-[2024/01/06 - 1월6일 9.01km 0530](https://blog.naver.com/jjys9047/223314592737?fromRss=true) <br>
 
 
 ### ⚡ Work Stats
