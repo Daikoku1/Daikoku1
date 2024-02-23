@@ -13,12 +13,12 @@
 </br>
 
 ## 💻 Latest Blog Posts
+[2024/02/22 - 2월21일 8.14km 5.07 ( 이건 나도 못 믿겠다. )](https://blog.naver.com/jjys9047/223362211321?fromRss=true) <br>
 [2024/02/04 - 2월4일 22.17km 0551](https://blog.naver.com/jjys9047/223343609268?fromRss=true) <br>
 [2024/02/04 - 2월3일 13.18km 0720](https://blog.naver.com/jjys9047/223343598090?fromRss=true) <br>
 [2024/02/01 - 2월1일 포인트훈련](https://blog.naver.com/jjys9047/223341400914?fromRss=true) <br>
 [2024/01/31 - 1월31일 5.59 km 7.01](https://blog.naver.com/jjys9047/223340118453?fromRss=true) <br>
 [2024/01/24 - 1월24일 7.98km 0635](https://blog.naver.com/jjys9047/223332858456?fromRss=true) <br>
-[2024/01/20 - 1월20일 21.3km 0546](https://blog.naver.com/jjys9047/223328477860?fromRss=true) <br>
 
 
 ### ⚡ Work Stats
