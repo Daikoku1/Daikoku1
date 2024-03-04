@@ -13,12 +13,12 @@
 </br>
 
 ## 💻 Latest Blog Posts
+[2024/03/03 - 202431런 겸 25K lsd](https://blog.naver.com/jjys9047/223371796783?fromRss=true) <br>
 [2024/03/01 - 2024_31런](https://blog.naver.com/jjys9047/223370409249?fromRss=true) <br>
 [2024/02/28 - 202431런](https://blog.naver.com/jjys9047/223368335080?fromRss=true) <br>
 [2024/02/27 - 202431런](https://blog.naver.com/jjys9047/223367169924?fromRss=true) <br>
 [2024/02/26 - 202431런](https://blog.naver.com/jjys9047/223366068779?fromRss=true) <br>
 [2024/02/26 - 2월25일 고구려마라톤](https://blog.naver.com/jjys9047/223366037927?fromRss=true) <br>
-[2024/02/22 - 2월21일 8.14km 5.07 ( 이건 나도 못 믿겠다. )](https://blog.naver.com/jjys9047/223362211321?fromRss=true) <br>
 
 
 ### ⚡ Work Stats
