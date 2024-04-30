@@ -13,12 +13,12 @@
 </br>
 
 ## 💻 Latest Blog Posts
+[2024/04/29 - 4월28일 서울하프마라톤](https://blog.naver.com/jjys9047/223431304648?fromRss=true&trackingCode=rss) <br>
 [2024/04/27 - 4월27일 5K 0543](https://blog.naver.com/jjys9047/223429239213?fromRss=true&trackingCode=rss) <br>
 [2024/04/21 - 4월21일 9.5K 0719](https://blog.naver.com/jjys9047/223422691393?fromRss=true&trackingCode=rss) <br>
 [2024/04/20 - 4월20일 경복고 인터벌](https://blog.naver.com/jjys9047/223421657776?fromRss=true&trackingCode=rss) <br>
 [2024/04/17 - 4월17일 7.91K 0634](https://blog.naver.com/jjys9047/223418848388?fromRss=true&trackingCode=rss) <br>
 [2024/04/08 - 4월8일 7.82K 0547](https://blog.naver.com/jjys9047/223409860076?fromRss=true&trackingCode=rss) <br>
-[2024/04/07 - 4월7일 13K 0555](https://blog.naver.com/jjys9047/223408438984?fromRss=true&trackingCode=rss) <br>
 
 
 ### ⚡ Work Stats
