@@ -13,12 +13,12 @@
 </br>
 
 ## 💻 Latest Blog Posts
+[2024/06/01 - 6월1일 강남구청장배](https://blog.naver.com/jjys9047/223465723454?fromRss=true&trackingCode=rss) <br>
 [2024/05/28 - 5월27일 5.22K 0616](https://blog.naver.com/jjys9047/223461630583?fromRss=true&trackingCode=rss) <br>
 [2024/05/26 - 5월26일 12.05K 0613](https://blog.naver.com/jjys9047/223458941631?fromRss=true&trackingCode=rss) <br>
 [2024/05/25 - 5월25일 12.12K 0610](https://blog.naver.com/jjys9047/223458122674?fromRss=true&trackingCode=rss) <br>
 [2024/05/15 - 5월15일 9.7K 0546](https://blog.naver.com/jjys9047/223447760825?fromRss=true&trackingCode=rss) <br>
 [2024/05/08 - 5월8일 8.03K 0629](https://blog.naver.com/jjys9047/223440615852?fromRss=true&trackingCode=rss) <br>
-[2024/05/05 - 5월4일 10.44K 0643](https://blog.naver.com/jjys9047/223437076041?fromRss=true&trackingCode=rss) <br>
 
 
 ### ⚡ Work Stats
