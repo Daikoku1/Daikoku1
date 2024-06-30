@@ -13,12 +13,12 @@
 </br>
 
 ## 💻 Latest Blog Posts
+[2024/06/29 - 6월29일 8.71K 0733](https://blog.naver.com/jjys9047/223495633180?fromRss=true&trackingCode=rss) <br>
 [2024/06/28 - 6월27일 5.73K 0658](https://blog.naver.com/jjys9047/223494771820?fromRss=true&trackingCode=rss) <br>
 [2024/06/26 - 6월26일 7K 0708](https://blog.naver.com/jjys9047/223492555830?fromRss=true&trackingCode=rss) <br>
 [2024/06/24 - 6월24일 인터벌](https://blog.naver.com/jjys9047/223490103059?fromRss=true&trackingCode=rss) <br>
 [2024/06/19 - 6월19일 5.46K 0558](https://blog.naver.com/jjys9047/223484988694?fromRss=true&trackingCode=rss) <br>
 [2024/06/09 - 6월9일 인터벌러닝](https://blog.naver.com/jjys9047/223473547830?fromRss=true&trackingCode=rss) <br>
-[2024/06/06 - 6월6일 13K 0558](https://blog.naver.com/jjys9047/223470685094?fromRss=true&trackingCode=rss) <br>
 
 
 ### ⚡ Work Stats
