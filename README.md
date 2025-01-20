@@ -13,12 +13,12 @@
 </br>
 
 ## 💻 Latest Blog Posts
+[2025/01/19 - 25.01.19 5K 0635](https://blog.naver.com/jjys9047/223730749221?fromRss=true&trackingCode=rss) <br>
 [2025/01/16 - 25.01.16 5.24K 0750](https://blog.naver.com/jjys9047/223728162683?fromRss=true&trackingCode=rss) <br>
 [2024/12/30 - 12.30 6.01K 0707](https://blog.naver.com/jjys9047/223709861157?fromRss=true&trackingCode=rss) <br>
 [2024/12/14 - 24.12.14 시즌마감마라톤](https://blog.naver.com/jjys9047/223693370633?fromRss=true&trackingCode=rss) <br>
 [2024/10/25 - 24.10.25 6.27K 10.32](https://blog.naver.com/jjys9047/223632952399?fromRss=true&trackingCode=rss) <br>
 [2024/10/15 - 24.10.15 인터벌 10회전](https://blog.naver.com/jjys9047/223620393888?fromRss=true&trackingCode=rss) <br>
-[2024/10/13 - 24.10.13 6K 0648](https://blog.naver.com/jjys9047/223617005332?fromRss=true&trackingCode=rss) <br>
 
 
 ### ⚡ Work Stats
