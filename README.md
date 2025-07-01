@@ -13,12 +13,12 @@
 </br>
 
 ## 💻 Latest Blog Posts
+[2025/06/30 - 25.06.29 10K 0541](https://blog.naver.com/jjys9047/223917170959?fromRss=true&trackingCode=rss) <br>
 [2025/06/26 - 25.06.26 8.43K 0629](https://blog.naver.com/jjys9047/223912974409?fromRss=true&trackingCode=rss) <br>
 [2025/06/12 - 25.06.12 5.22K 0714](https://blog.naver.com/jjys9047/223897407423?fromRss=true&trackingCode=rss) <br>
 [2025/06/12 - 25.06.11 6.01K 0612](https://blog.naver.com/jjys9047/223897405136?fromRss=true&trackingCode=rss) <br>
 [2025/06/08 - 25.06.08 10K 0634](https://blog.naver.com/jjys9047/223892422845?fromRss=true&trackingCode=rss) <br>
 [2025/06/07 - 25.06.07 6.6 K 0646](https://blog.naver.com/jjys9047/223891594212?fromRss=true&trackingCode=rss) <br>
-[2025/06/06 - 25.06.06 드릴운동](https://blog.naver.com/jjys9047/223890826279?fromRss=true&trackingCode=rss) <br>
 
 
 ### ⚡ Work Stats
