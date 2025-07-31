@@ -13,12 +13,12 @@
 </br>
 
 ## 💻 Latest Blog Posts
+[2025/07/30 - 25.07.30 인왕산 야등](https://blog.naver.com/jjys9047/223952967193?fromRss=true&trackingCode=rss) <br>
 [2025/07/29 - 25.07.29 홍제천러닝](https://blog.naver.com/jjys9047/223951680336?fromRss=true&trackingCode=rss) <br>
 [2025/07/28 - 25.07.28 인터벌](https://blog.naver.com/jjys9047/223950392728?fromRss=true&trackingCode=rss) <br>
 [2025/07/03 - 25.07.03 6.84K 0714](https://blog.naver.com/jjys9047/223920958887?fromRss=true&trackingCode=rss) <br>
 [2025/07/02 - 25.07.02 8.67K 0650](https://blog.naver.com/jjys9047/223919684569?fromRss=true&trackingCode=rss) <br>
 [2025/06/30 - 25.06.29 10K 0541](https://blog.naver.com/jjys9047/223917170959?fromRss=true&trackingCode=rss) <br>
-[2025/06/26 - 25.06.26 8.43K 0629](https://blog.naver.com/jjys9047/223912974409?fromRss=true&trackingCode=rss) <br>
 
 
 ### ⚡ Work Stats
