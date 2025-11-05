@@ -13,12 +13,12 @@
 </br>
 
 ## 💻 Latest Blog Posts
+[2025/11/04 - 25.11.04 6.32K 0625](https://blog.naver.com/jjys9047/224064815961?fromRss=true&trackingCode=rss) <br>
 [2025/11/03 - 25.11.03 5.06K 0615](https://blog.naver.com/jjys9047/224063621094?fromRss=true&trackingCode=rss) <br>
 [2025/11/01 - 25.11.01 21K 0719](https://blog.naver.com/jjys9047/224061170620?fromRss=true&trackingCode=rss) <br>
 [2025/10/29 - 25.10.29 7.42K](https://blog.naver.com/jjys9047/224058206904?fromRss=true&trackingCode=rss) <br>
 [2025/09/29 - 25.09.29 7.5K 0642](https://blog.naver.com/jjys9047/224026344564?fromRss=true&trackingCode=rss) <br>
 [2025/09/21 - 25.09.21 15K 0550](https://blog.naver.com/jjys9047/224016005961?fromRss=true&trackingCode=rss) <br>
-[2025/09/17 - 25.09.17 10K 0608](https://blog.naver.com/jjys9047/224012062493?fromRss=true&trackingCode=rss) <br>
 
 
 ### ⚡ Work Stats
